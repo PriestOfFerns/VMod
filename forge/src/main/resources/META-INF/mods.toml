@@ -35,6 +35,7 @@ logoFile="icon.png" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 
+Special thanks to PriestOfFern
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.valkyrien_mod]] #optional
